@@ -1,0 +1,11 @@
+{  
+    "DropEssenceRate": {  
+        "Ghost":       3,   
+        "GhostRed":      1,   
+        "GhostGreen":    1,   
+        "GhostYellow":    1,  
+        "GhostCyan":    1,  
+        "GhostPurple":    1,  
+        "GhostPink":    1,  
+    }  
+}  
