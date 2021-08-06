@@ -1,11 +1,13 @@
 {
-  "server_version": "0.0.2",
-  "data": {
-    "Ghosts": {
-      "Ghost": 1,
-      "GhostRed": 2
-    },
+  "data":[
+    "server_version": "0.0.2",
+    "data": {
+        "Ghosts": {
+          "Ghost": 1,
+          "GhostRed": 2
+         },
  
-  },
- 
+      },
+  ]
+
 }
