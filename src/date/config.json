@@ -1,9 +1,9 @@
 {
   "data":[
-    "server_version": "0.0.2",
-    "ghosts": {
-          "ghost": 1,
-          "ghostred": 2
+    "server_version": {
+          "sv1": 0,
+          "sv2": 0,
+          "sv3": 2,
          }
   ]
 }
