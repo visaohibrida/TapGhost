@@ -1,0 +1,2 @@
+# TapGhost
+Tap Idle Game
