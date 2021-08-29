@@ -1,13 +1,13 @@
 {
   "spawn":[
     "DropEssenceRate": {
-        "essence_cyan":   1;
-        "essence_green":  1;
-        "essence_pink":   1;
-        "essence_purple": 1;
-        "essence_red":    1;
-        "essence_white":  1;
-        "essence_yellow": 1;
+        "essence_cyan":   1,
+        "essence_green":  1,
+        "essence_pink":   1,
+        "essence_purple": 1,
+        "essence_red":    1,
+        "essence_white":  1,
+        "essence_yellow": 1,
        },
     "GhostSpawn":{
         "ghost":         3,   
