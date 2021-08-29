@@ -1,11 +1,24 @@
-{  
-    "DropEssenceRate": {  
-        "Ghost":       3,   
-        "GhostRed":      1,   
-        "GhostGreen":    1,   
-        "GhostYellow":    1,  
-        "GhostCyan":    1,  
-        "GhostPurple":    1,  
-        "GhostPink":    1,  
-    }  
-}  
+{
+  "spawn":[
+    "DropEssenceRate": {
+        "essence_cyan":   1;
+        "essence_green":  1;
+        "essence_pink":   1;
+        "essence_purple": 1;
+        "essence_red":    1;
+        "essence_white":  1;
+        "essence_yellow": 1;
+       },
+    "GhostSpawn":{
+        "ghost":         3,   
+        "ghost_cyan":    1,  
+        "ghost_green":   1,   
+        "ghost_purple":  1,  
+        "ghost_pink":    1,  
+        "ghost_red":     1,   
+        "ghost_yellow":  1,  
+
+
+       }
+  ]
+}
